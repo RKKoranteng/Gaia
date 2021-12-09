@@ -1,0 +1,66 @@
+ .u-section-1 {
+  background-image: url("images/GaiaOnline_668x227.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 552px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 455px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 349px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 262px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 165px;
+  }
+} .u-section-2 {
+  background-image: none;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 404px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 60px 0;
+} .u-section-3 {
+  background-image: linear-gradient(#e2eea5, white);
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 120px;
+}
+
+.u-section-3 .u-form-1 {
+  width: 570px;
+  height: 315px;
+  margin: 0 auto 120px;
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-form-1 {
+    width: 340px;
+  }
+}
